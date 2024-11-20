@@ -9,6 +9,7 @@ include(
     "domain",
     "storage:rdb",
     "support:logging",
+    "infra:infra-example",
 )
 
 pluginManagement {
